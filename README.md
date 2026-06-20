@@ -7,7 +7,7 @@ Smart Uzhavan is a Flutter-based multilingual agriculture application designed t
 - 👨‍🌾 Farmer Registration & Login
 - 🌱 Crop Listing and Management
 - 🚚 Transport Booking System
-- 🏬 Warehouse Management
+- 🏬 Warehouse Management 
 - 🛒 Buyer Dashboard
 - 🌐 Multilingual Support
 - 🔐 Secure User Authentication
